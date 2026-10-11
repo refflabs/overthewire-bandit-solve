@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Temporary files created by solver
+askpass.bat
+askpass.sh
+repo*/
+*.key
+passwords.json
+
+# Environment
+.venv/
+env/
+venv/
